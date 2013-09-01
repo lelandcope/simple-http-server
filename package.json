@@ -1,0 +1,25 @@
+{
+  "name": "simple-http-server",
+  "version": "0.0.1",
+  "description": "A Simple HTTP Server buiilt on top of Express",
+  "main": "simple-http-server.coffee",
+  "scripts": {
+    "start": "coffee ./server.coffee"
+    "test": "",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://lelandcope@github.com/lelandcope/simple-http-server.git"
+  },
+  "keywords": [
+    "simple",
+    "http",
+    "server",
+    "cli"
+  ],
+  "author": "Leland Cope @lelandcope",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "33b8a8faef0722d776dc6ea6ab176099c3f54b45",
+  "bin": "./server.coffee"
+}
