@@ -1,6 +1,6 @@
 {
   "name": "simple-http-server-lc",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Simple HTTP Server buiilt on top of Express",
   "main": "simple-http-server.coffee",
   "scripts": {
