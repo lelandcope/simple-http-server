@@ -1,6 +1,6 @@
 ## Simple Http Server
 union     	= require 'union'
-logfile     = require 'logfile'
+logfile     = require 'logfile-lc'
 ecstatic    = require 'ecstatic'
 
 SimpleHTTPServer = exports.SimpleHTTPServer = (options)->

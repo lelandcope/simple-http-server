@@ -1,5 +1,5 @@
 {
-  "name": "simple-http-server",
+  "name": "simple-http-server-lc",
   "version": "0.0.1",
   "description": "A Simple HTTP Server buiilt on top of Express",
   "main": "simple-http-server.coffee",
@@ -28,6 +28,7 @@
     "colors": "~0.6.2",
     "ecstatic": "~0.4.7",
     "optimist": "~0.6.0",
-    "union": "~0.3.7"
+    "union": "~0.3.7",
+    "logfile-lc": "0.0.1"
   }
 }
