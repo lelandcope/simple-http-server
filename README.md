@@ -23,9 +23,17 @@ This will install simple-http-server-lc globaly so it can be used in any project
     
 ## Usage
 
-	simple-http-server [port] [options]
+	simple-http-server [port] [path] [options]
 
 `[port]` defaults to `8080`
+
+`[path]` defaults to the current directory
+
+**Example**:
+
+	simple-http-server 3000 './public' -c 10 -v true
+    
+This will start a server on port `3000` and serve up files only in the `public` folder and verbose is turned on
 
 ## Options
 
