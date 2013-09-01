@@ -20,4 +20,4 @@ server = SimpleHTTPServer.createServer({
 
 server.listen port
 
-console.log 'Simple HTTP Server Started on Port %d and is serving files in %s'.green, port, root
+console.log 'Simple HTTP Server Started on Port %d and is serving files in %s'.green, port, path
