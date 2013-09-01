@@ -22,6 +22,12 @@
   "readmeFilename": "README.md",
   "gitHead": "33b8a8faef0722d776dc6ea6ab176099c3f54b45",
   "bin": {
-  	"simple-http-server": "./server.coffee"
+    "simple-http-server": "./server.coffee"
+  },
+  "dependencies": {
+    "colors": "~0.6.2",
+    "ecstatic": "~0.4.7",
+    "optimist": "~0.6.0",
+    "union": "~0.3.7"
   }
 }
