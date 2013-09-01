@@ -1,4 +1,4 @@
 simple-http-server
 ==================
 
-A Simple HTTP Server built on top of express
+A Simple HTTP Server for NodeJS
