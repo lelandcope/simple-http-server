@@ -1,6 +1,6 @@
 {
   "name": "simple-http-server-lc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Simple HTTP Server for NodeJS similar to Pythons SimpleHTTPServer",
   "main": "simple-http-server.coffee",
   "scripts": {

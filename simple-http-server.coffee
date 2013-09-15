@@ -14,7 +14,7 @@ SimpleHTTPServer = exports.SimpleHTTPServer = (options)->
 	self.verbose = options.verbose or true
 
 	if self.verbose
-		self.before.unshift logfile(self.root)
+		self.before.push logfile(self.root)
 
 	self.server = union.createServer ({
 		before: self.before.concat([
