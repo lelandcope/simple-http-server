@@ -1,6 +1,8 @@
 simple-http-server
 ==================
 
+[![NPM version](https://badge.fury.io/js/simple-http-server-lc.png)](http://badge.fury.io/js/simple-http-server-lc)
+
 A Simple HTTP Server for NodeJS similar to Pythons SimpleHTTPServer
 
 ## Installiation
